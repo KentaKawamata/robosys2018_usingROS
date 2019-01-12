@@ -1,3 +1,4 @@
 <launch>
+  <node pkg="LED" name="keyboard_driver" type="keyboard_driver.py" required="true" />
   <node pkg="LED" name="ledflash" type="runLED.py" required="true" />
 </launch>
