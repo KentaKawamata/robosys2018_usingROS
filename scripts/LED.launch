@@ -1,4 +1,8 @@
 <launch>
+  <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch">
+     <arg name="port" value="9000"/>
+  </include>
   <node pkg="LED" name="keyboard_driver" type="keyboard_driver.py" required="true" />
   <node pkg="LED" name="ledflash" type="runLED.py" required="true" />
+  <node pkg="LED" name="webserver" type="webserver.py" args="8000" required="true" />
 </launch>
