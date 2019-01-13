@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=5AiqlADcvpU
 
 [![IMAGE](http://img.youtube.com/vi/5AiqlADcvpU/0.jpg)](https://www.youtube.com/watch?v=5AiqlADcvpU)
 
-# Licence
+# License
 
 - LEDDriverがGPLライセンス 
 - ROSがBSDライセンス
