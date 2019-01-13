@@ -39,3 +39,11 @@ $ roslaunch LED LED.launch
 https://www.youtube.com/watch?v=5AiqlADcvpU
 
 [![IMAGE](http://img.youtube.com/vi/5AiqlADcvpU/0.jpg)](https://www.youtube.com/watch?v=5AiqlADcvpU)
+
+# Licence
+
+- LEDDriverがGPLライセンス 
+- ROSがBSDライセンス
+- [BSDライセンス条項](https://github.com/ryuichiueda/robosys2018/blob/master/09.md#%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E4%BF%AE%E6%AD%A3)
+
+上記より，GPL-3.0
