@@ -18,7 +18,7 @@
 
 ```
 $ git clone https://github.com/KentaKawamata/robosys2018_usingROS.git
-$ cd LED
+$ cd robosys2018_usingROS
 $ roslaunch LED LED.launch
 ```
 1を入力することで赤色のLED，2を入力することで青色のLEDを点灯させる．  
