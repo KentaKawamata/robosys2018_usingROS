@@ -13,6 +13,8 @@ def Lchika(msg):
         os.system("echo 1 > /dev/myled0")
     elif msg.data == "2":
         os.system("echo 2 > /dev/myled0")
+    else:
+        os.system("echo 0 > /dev/myled0")
 
 
 if __name__ == '__main__':

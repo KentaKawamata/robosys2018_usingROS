@@ -19,6 +19,8 @@
 ```
 $ git clone https://github.com/KentaKawamata/robosys2018_usingROS.git
 $ cd robosys2018_usingROS
+$ cd scripts/driver
+$ bash installDriver.sh
 $ roslaunch LED LED.launch
 ```
 1を入力することで赤色のLED，2を入力することで青色のLEDを点灯させる．  
@@ -34,3 +36,6 @@ $ roslaunch LED LED.launch
 
 # デモ動画 
 
+https://www.youtube.com/watch?v=5AiqlADcvpU
+
+[![IMAGE](http://img.youtube.com/vi/5AiqlADcvpU/0.jpg)](https://www.youtube.com/watch?v=5AiqlADcvpU)
